@@ -6,6 +6,8 @@ An interactive Power BI dashboard analysing mobile phone sales across brands, ci
 
 **[▶ Watch the 90-second demo](Mobile_Sales_Dashboard_demo.mp4)**
 
+https://github.com/user-attachments/assets/1dda7091-a81a-475d-98d4-73d6b18dee23
+
 ## Business questions answered
 - How much did we sell overall, and how does it change month by month?
 - Which brands, mobile models and cities drive the most sales?
